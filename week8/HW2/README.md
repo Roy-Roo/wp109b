@@ -9,7 +9,7 @@ function star(n){
 
 star(5)
 ```
-
+##  執行結果
 ```
 PS C:\Users\90121\Desktop\網頁設計\wp109b\week8\HW2> deno run Star.js
 *
@@ -28,7 +28,7 @@ function between(a,r){
 
 between(15,17)
 ```
-
+## 執行結果
 ```
 PS C:\Users\90121\Desktop\網頁設計\wp109b\week8\HW2> deno run Between.js
 15
@@ -52,7 +52,7 @@ function between(a,b)
 
 between(15,30)
 ```
-
+## 執行結果
 ```
 PS C:\Users\90121\Desktop\網頁設計\wp109b\week8\HW2> deno run PrimeBetween.js 
 17
