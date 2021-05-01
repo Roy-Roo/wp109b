@@ -1,5 +1,5 @@
 ## HW3 
-```js
+```html
 class vector{
     constructor(array){
         this.a = array
@@ -57,7 +57,7 @@ console.log('x.dot(y)=',x.dot(y))
 console.log('x.neg(y)=',x.neg(y))
 ```
 ##  執行結果
-```js
+```html
 x.add(y)= vector { a: [ 3, 3, 3 ] }
 x.sub(y)= vector { a: [ -1, -1, -1 ] }
 x.dot(y)= 6
