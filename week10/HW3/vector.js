@@ -59,6 +59,7 @@ console.log('x.neg(y)=',x.neg(y))
 ```
 ##  執行結果
 ```
+PS C:\Users\90121\Desktop\網頁設計\wp109b\week10\HW3> deno run vector.js
 x.add(y)= vector { a: [ 3, 3, 3 ] }
 x.sub(y)= vector { a: [ -1, -1, -1 ] }
 x.dot(y)= 6
