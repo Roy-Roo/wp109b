@@ -56,7 +56,7 @@ console.log('x.add(y)=',x.add(y))
 console.log('x.sub(y)=',x.sub(y))
 console.log('x.dot(y)=',x.dot(y))
 console.log('x.neg(y)=',x.neg(y))
-`````
+```
 ##  執行結果
 ```
 x.add(y)= vector { a: [ 3, 3, 3 ] }
